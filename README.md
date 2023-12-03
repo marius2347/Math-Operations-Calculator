@@ -15,6 +15,9 @@
 <b> Python3: https://drive.google.com/file/d/1B5VibXhlzQz9aaz7_ck7NlOkGREgFUHg/view?usp=drive_link <b>
 <br>
 
+<h2>Photo</h2>
+<img src="image.png">
+<br>
 
 <h2>Contact</h2>
 
