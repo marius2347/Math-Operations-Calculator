@@ -1,4 +1,4 @@
-<h1> Math Operations Calculator - Python Project</h1>
+<h1>Math Operations Calculator using OOP in Python</h1>
 <br>
 <h2>Features</h2>
 <ul>
